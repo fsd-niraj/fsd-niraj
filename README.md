@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- ![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=fsd-niraj&show_icons=true&theme=dracula) -->
-&nbsp;![](https://komarev.com/ghpvc/?username=ashishps1&color=brightgreen)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishps1&show_icons=true&locale=en" alt="ashishps1" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishps1&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+&nbsp;![](https://komarev.com/ghpvc/?username=fsd-niraj&color=brightgreen)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fsd-niraj&show_icons=true&locale=en" alt="fsd-niraj" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsd-niraj&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 </p>
