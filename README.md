@@ -6,6 +6,8 @@ Currently focusing on mastering Web Application journey starting with designing 
 
 Also falling in love with Visual Studio Code and Chrome particularly in it's extensibility ecosystem helping me build some great dev tools.
 
+Take a look at my [Portfolio](https://portfolio-64pkwwnqd-fsdnirajs-projects.vercel.app/).
+
 I write tech related blogs on [Medium](https://fsd-niraj.medium.com/)
 
 Have a project idea and want to build together? [Lets discuss.](mailto:develop.niraj@gmail.com)
