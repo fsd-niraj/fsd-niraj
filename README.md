@@ -1,4 +1,4 @@
-# Hello Geeks, I'm Niraj 👋
+# Hello, I'm Niraj 👋
 
 I'm an impact driven software developer experienced in building and shipping production ready applications.
 
