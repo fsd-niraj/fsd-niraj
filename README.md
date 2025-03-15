@@ -6,8 +6,6 @@ Currently focusing on mastering Web and Mobile Application journey starting with
 
 Also amazed with Visual Studio Code and Chrome particularly in it's extensibility ecosystem helping me build some great dev tools.
 
-Alongside engineering, I'm interested in Cybersecurity and Generative AI.
-
 Take a look at my [Portfolio](https://fsd-niraj.vercel.app/).
 
 I write tech related blogs on [Medium](https://fsd-niraj.medium.com/).
