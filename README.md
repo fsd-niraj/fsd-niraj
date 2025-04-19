@@ -6,7 +6,7 @@ Currently focusing on mastering Web and Mobile Application journey starting with
 
 Also amazed with Visual Studio Code and Chrome particularly in it's extensibility ecosystem helping me build some great dev tools.
 
-Take a look at my [Portfolio](https://fsd-niraj.vercel.app/).
+Take a look at my [Portfolio](https://fsd-niraj.com).
 
 I write tech related blogs on [Medium](https://fsd-niraj.medium.com/).
 
