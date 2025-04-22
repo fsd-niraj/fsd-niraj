@@ -2,7 +2,7 @@
 
 I'm an impact driven software developer experienced in building and shipping production ready applications.
 
-Currently focusing on mastering Web and Mobile Application journey starting with designing system ➡ building ➡ securing ➡ testing ➡ deploying incuding both frontend and backend.
+Currently mastering Web and Mobile Application journey starting with designing system ➡ building ➡ securing ➡ testing ➡ deploying incuding both frontend and backend.
 
 Also amazed with Visual Studio Code and Chrome particularly in it's extensibility ecosystem helping me build some great dev tools.
 
