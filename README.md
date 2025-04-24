@@ -4,7 +4,7 @@ I'm an impact driven software developer experienced in building and shipping pro
 
 Currently mastering Web and Mobile Application journey starting with designing system ➡ building ➡ securing ➡ testing ➡ deploying incuding both frontend and backend.
 
-Also amazed with Visual Studio Code and Chrome particularly in it's extensibility ecosystem helping me build some great dev tools.
+Also amazed with Visual Studio Code and Chrome particularly in it's extensibility ecosystem that helps build great products and dev tools.
 
 Take a look at my [Portfolio](https://fsd-niraj.com).
 
