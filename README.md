@@ -1,10 +1,10 @@
-# Hello, I'm Niraj 👋
+# Hello, I'm Niraj 🚀
 
 I'm an impact driven software developer experienced in building and shipping production ready applications.
 
-Currently mastering Web and Mobile Application journey starting with designing system ➡ building ➡ securing ➡ testing ➡ deploying incuding both frontend and backend.
+Much more than just a web developer.
 
-Also amazed with Visual Studio Code and Chrome particularly in it's extensibility ecosystem that helps build great products and dev tools.
+Also, amazed with Visual Studio Code and Chrome particularly in it's extensibility ecosystem that helps build great products and dev tools.
 
 Take a look at my [Portfolio](https://fsd-niraj.com).
 
