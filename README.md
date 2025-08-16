@@ -2,9 +2,8 @@
 
 I'm an impact driven software developer experienced in building and shipping production ready applications.
 
-Much more than just a web developer.
-
 Also, amazed with Visual Studio Code and Chrome particularly in it's extensibility ecosystem that helps build great products and dev tools.
+Interested in building developers' productivity tools and aviation computers.
 
 Take a look at my [Portfolio](https://fsd-niraj.com).
 
